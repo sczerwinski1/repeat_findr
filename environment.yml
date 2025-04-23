@@ -1,0 +1,10 @@
+name: ssr_finder
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.10
+  - trf
+  - emboss
+  - biopython
+  - misa
